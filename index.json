@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "local_generative_agents",
+  "versions": [
+    {
+      "commit": "d66508143a2e0bed9b8e32b7a9a2ab6435b7e2d1",
+      "tag": "",
+      "parsed_at": "2026-10-09T16:06:33.498020+00:00"
+    }
+  ]
+}
