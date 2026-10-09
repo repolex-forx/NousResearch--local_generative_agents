@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/local_generative_agents/commit/d66508143a2e0bed9b8e32b7a9a2ab6435b7e2d1",
       "git:hexsha": "d66508143a2e0bed9b8e32b7a9a2ab6435b7e2d1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
